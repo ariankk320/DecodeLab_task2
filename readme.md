@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Responsive Web Layout
 
 A modern and fully responsive web layout built using **HTML, CSS, and JavaScript**.
